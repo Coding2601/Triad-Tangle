@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #efefef;
+  font-family: "Fredoka", sans-serif;
+}
+
+.header{
+  font-size: 60px;
+}
